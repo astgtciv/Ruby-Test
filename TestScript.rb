@@ -14,6 +14,8 @@ mg.names = ["Albert", "Brenda", "Charles",
 mg.say_hi
 mg.say_bye
 
+mg.names = "Alt"
+
 # Change to nil
 # mg.names = nil
 # mg.say_hi
