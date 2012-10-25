@@ -15,6 +15,6 @@ mg.say_hi
 mg.say_bye
 
 # Change to nil
-mg.names = nil
-mg.say_hi
-mg.say_bye
+# mg.names = nil
+# mg.say_hi
+# mg.say_bye
